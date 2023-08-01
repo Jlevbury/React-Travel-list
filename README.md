@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![Screenshot (260)](https://github.com/Jlevbury/React-Travel-list/assets/125767916/8e63d697-8aab-4e19-a4af-8ffdea91ad34)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
